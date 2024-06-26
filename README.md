@@ -7,34 +7,50 @@ Answer the following questions based on your understanding of GitHub and Visual 
 
 Questions:
 Introduction to GitHub:
-
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
+Github-cloud-based platform where you can store, share, and work together with others to write code.
+Primary functions and features-Allow developers to work together remotely on the software and also track changes made.
+        Features-repositories, Banching and merging, pill requests, Integrations, collaboration tools
+-It supports collaborative software development by allowing developers to collaborate on a project at the same time.
+
+
+
 Repositories on GitHub:
-
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
+
+-Github repositories- a place in github where you can code, store your files and revise your file history. (https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
+
+-Elements of the repositories- README.md, License, pull request,commits, Actions
+
 Version Control with Git:
-
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
+-It enhances VS by allowing developers to keep track of changes made by indidual deevelopers. This increases productivity and allow for smooth collaboration between the developers.(https://resources.github.com/software-development/what-is-version-control/) 
+
+
 Branching and Merging in GitHub:
-
 What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.
+
+Branches
+
 Pull Requests and Code Reviews:
-
 What is a pull request in GitHub, and how does it facilitate code reviews and collaboration? Outline the steps to create and review a pull request.
+
 GitHub Actions:
-
 Explain what GitHub Actions are and how they can be used to automate workflows. Provide an example of a simple CI/CD pipeline using GitHub Actions.
+
 Introduction to Visual Studio:
-
 What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
+
+
 Integrating GitHub with Visual Studio:
-
 Describe the steps to integrate a GitHub repository with Visual Studio. How does this integration enhance the development workflow?
+
+
 Debugging in Visual Studio:
-
 Explain the debugging tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?
-Collaborative Development using GitHub and Visual Studio:
 
+
+Collaborative Development using GitHub and Visual Studio:
 Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
 
 
