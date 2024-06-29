@@ -11,7 +11,7 @@ What is GitHub, and what are its primary functions and features? Explain how it 
 
 - Github-cloud-based platform where you can store, share, and work together with others to write code.
 - Primary functions and features-Allow developers to work together remotely on the software and also track changes made.
-        - Features-repositories, Banching and merging, pill requests, Integrations, collaboration tools
+        * Features-repositories, Banching and merging, pill requests, Integrations, collaboration tools
 -It supports collaborative software development by allowing developers to collaborate on a project at the same time.
 
 
@@ -33,13 +33,13 @@ What are branches in GitHub, and why are they important? Describe the process of
 
 - Branches- A parallel version of your code that is contained within the repository, but does not affect the primary or main branch. Allows developers to create a space where they can test their codes without affecting the main branch.
 
-ProcesS
+Process
 - Navigate to Your Repository on GitHub
 - Click on the "Branch: main" dropdown.
 - Type a new branch name in the "Find or create a branch" field.
 - Press "Enter" to create the new branch.
 
-- To make chnages, Navigate to the newly created branch in your repository.
+- To make changes, Navigate to the newly created branch in your repository.
 - Click on the file you want to edit.
 - Make your changes directly in the GitHub editor.
 - Add a commit message describing your changes.
