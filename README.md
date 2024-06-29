@@ -11,8 +11,8 @@ What is GitHub, and what are its primary functions and features? Explain how it 
 
 - Github-cloud-based platform where you can store, share, and work together with others to write code.
 - Primary functions and features-Allow developers to work together remotely on the software and also track changes made.
-        * Features-repositories, Banching and merging, pill requests, Integrations, collaboration tools
--It supports collaborative software development by allowing developers to collaborate on a project at the same time.
+        * Features-repositories, Banching and merging, pull requests, Integrations, collaboration tools
+- It supports collaborative software development by allowing developers to collaborate on a project at the same time.
 
 
 Repositories on GitHub:
